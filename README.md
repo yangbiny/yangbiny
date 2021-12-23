@@ -2,6 +2,9 @@
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=yangbiny)]()
 
+- My CSDN Blog: [here](https://blog.csdn.net/Impassive_y)
+- My Jue Jin Blog: [here](https://juejin.cn/user/4476867079576798)
+
 <!--
 **yangbiny/yangbiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
